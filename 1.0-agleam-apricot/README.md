@@ -1,4 +1,4 @@
-# DahliaOS 1.0 Agleam Apricot
+# DahliaOS 0.1 Agleam Apricot
 
 Download: `*PLEASESTANDBY*`
 
