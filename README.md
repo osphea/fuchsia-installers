@@ -1,5 +1,4 @@
-# builds
-Dahlia-OS builds
+# Fuchsia Installers
 
-## Pangolin Desktop
-![Pangolin-Desktop](https://raw.githubusercontent.com/dahlia-os/Icons/master/UI-Screenshots/ScreenShot-Term.png)
+images produced by the `fx mkinstaller` command.
+
